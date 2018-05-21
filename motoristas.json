@@ -1,0 +1,26 @@
+[
+	{
+		"id": "1",
+		"email": "tiagos2@hotmail.coom",
+		"nome": "Tiago Henrique",
+		"telefone": "12981242424",
+		"cep": "122424244",
+		"rua": "Rua dos ByBro",
+		"bairro": "Centro",
+		"cidade": "Jacarei",
+		"estado": "PA",
+		"complemento": ""
+	},
+	{
+		"id": "2",
+		"email": "lucassouza24_ap7SegueLa@hotmail.coom",
+		"nome": "Lucas Augusto",
+		"telefone": "12981242424",
+		"cep": "12316500",
+		"rua": "Rua dos BroBy",
+		"bairro": "Centro",
+		"cidade": "Sao jose dos campos",
+		"estado": "AP",
+		"complemento": ""
+	}
+]
